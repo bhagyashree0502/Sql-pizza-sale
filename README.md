@@ -1,4 +1,4 @@
-# Sql-pizza-sale
+# Sql-pizza-sale analysis
 
 A Pizza company wants to know about the Sales done in the year 2015 and  company wants to create sql query for showing information of total sales has been done with given problem statement.
 
