@@ -1,4 +1,4 @@
-# Sql-pizza-sale analysis
+# Pizza Company Sales and Revenue Analysis with SQL
 
 A Pizza company wants to know about the Sales done in the year 2015 and  company wants to create sql query for showing information of total sales has been done with given problem statement.
 
